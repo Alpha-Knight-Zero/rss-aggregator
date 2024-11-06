@@ -9,6 +9,8 @@ import (
 	"os"
 )
 
+//test
+
 func main() {
 	DotEnvError := godotenv.Load(".env")
 	if DotEnvError != nil {
