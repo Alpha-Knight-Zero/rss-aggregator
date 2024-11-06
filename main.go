@@ -9,8 +9,6 @@ import (
 	"os"
 )
 
-// test commit
-
 func main() {
 	DotEnvError := godotenv.Load(".env")
 	if DotEnvError != nil {
