@@ -1,0 +1,8 @@
+# GoLand files
+.idea/
+
+# secrets
+.env
+
+# binary
+rss-aggregator
